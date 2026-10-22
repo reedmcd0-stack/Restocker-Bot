@@ -11,26 +11,10 @@ from discord.ext import commands
 log = logging.getLogger(__name__)
 
 SERVICES = [
-    "Paramount+",
-    "Disney+",
     "Crunchyroll",
     "Steam",
     "Netflix",
-    "Supercell",
-    "Eldorado",
-    "Epic Games",
-    "PlayStation",
-    "Roblox",
     "Deezer",
-    "Hotmail",
-    "Spotify",
-    "Prime Video",
-    "Cap Cut",
-    "Express VPN",
-    "Hidive",
-    "Dazn",
-    "TunnelBear",
-    "Hulu",
 ]
 
 DATA = Path("generator_data")
