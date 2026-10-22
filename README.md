@@ -76,7 +76,7 @@ No license has been specified yet.
 
 Adding a New Service
 
-Adding a new service is simple. You only need to add ""Example"" to the service list in all four files:
+Adding a new service is simple. You only need to add "Example", to the service list in all four files:
 
 - "generator.py"
 - "restock.py"
